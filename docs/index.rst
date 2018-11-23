@@ -13,5 +13,8 @@ The wordcount program is a python script, which reads an input file and writes t
    :maxdepth: 2
    :caption: Contents:
 
+   feature-a
+   feature-b
+
    usage
    contribution
